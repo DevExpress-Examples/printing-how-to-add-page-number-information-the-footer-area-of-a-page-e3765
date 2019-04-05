@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [View.xaml](./CS/GridExample/View/View.xaml) (VB: [View.xaml.vb](./VB/GridExample/View/View.xaml.vb))
+* [View.xaml](./CS/GridExample/View/View.xaml) (VB: [View.xaml](./VB/GridExample/View/View.xaml))
 * [View.xaml.cs](./CS/GridExample/View/View.xaml.cs) (VB: [View.xaml.vb](./VB/GridExample/View/View.xaml.vb))
 <!-- default file list end -->
 # Printing: How to add page number information the footer area of a page
